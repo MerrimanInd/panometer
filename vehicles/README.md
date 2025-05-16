@@ -1,0 +1,1 @@
+This is a repository of the files required to implement a panometer for a specific vehicle gauge cluster. It will include firmware files, PCB board layouts, mechanical design files (such as 3D printable STLs) for mounting the motors, and instructions for performing the modifications.
